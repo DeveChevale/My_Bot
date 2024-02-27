@@ -71,5 +71,5 @@ async def check(ctx):
         await ctx.send('ANDA LUPA MENGIRIM GAMBAR!')
 
 
-bot.run("MTE1MTQ5NTg4NjM4MDIwODEyOA.GVyd4F.ocVQ53_72RM7FeGUaOHWPx9Sl-ix9_2onrHz4w")
+bot.run("ADD HERE YOU CODE!)
 
